@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>posts on Programming Note</title>
-    <link>https://example.net/posts/</link>
+    <link>https://jy2694.github.io/posts/</link>
     <description>Recent content in posts on Programming Note</description>
     <generator>Hugo 0.136.0</generator>
     <language>ko-kr</language>
-    <atom:link href="https://example.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jy2694.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
 
