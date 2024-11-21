@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>posts on Programming Note</title>
+    <link>https://example.net/posts/</link>
+    <description>Recent content in posts on Programming Note</description>
+    <generator>Hugo 0.136.0</generator>
+    <language>ko-kr</language>
+    <atom:link href="https://example.net/posts/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
+
